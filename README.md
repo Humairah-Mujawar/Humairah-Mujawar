@@ -2,6 +2,8 @@
 
 **💁 Full Stack Developer** | 🌍 **Based in Toronto, Ontario** | 💡 **Passionate about building innovative solutions**
 
+Over 8 years of experience in UI/UX design and full stack development, with a background in Master of Computer Applications.  Excellent communication and collaboration skills to work with cross-functional teams.
+
 ## 🚀 Skills & Technologies 
 
 **Front End:**\
