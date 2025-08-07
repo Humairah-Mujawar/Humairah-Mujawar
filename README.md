@@ -26,7 +26,14 @@ Agile Development, Team Leadership & Training, Client Communication, Documentati
 
 ## 🎯 Featured Projects
 Coming soon..
+
 <!--
+### 📝 Project 1: Project Title
+
+* Technologies: HTML, CSS, JavaScript, Bootstrap, jQuery, JSON, API
+* Features: 
+* Live Demo: github-link
+ 
 **Humairah-Mujawar/Humairah-Mujawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
