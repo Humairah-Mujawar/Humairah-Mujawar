@@ -1,5 +1,29 @@
-## Hi there 👋
+## Hi there, I'm Humairah 👋
 
+**💁 Full Stack Developer** | 🌍 **Based in Toronto, Ontario** | 💡 **Passionate about building innovative solutions**
+
+## 🚀 Skills & Technologies 
+
+**Front End:**\
+HTML5, CSS3, JavaScript, jQuery, React, Bootstrap, SASS
+
+**Backend and Content Management System (CMS):**\
+Node.js, Express.js, PHP, MySQL, WordPress, RESTful APIs
+
+**Testing & DevOps:**\
+Cross-Browser Testing, Responsive Design, Unit Testing, Git CI/CD, Azure DevOps, SAST/DAST
+
+**Tools:**\
+GitHub, Azure, Jira, Confluence, Workfront, SVN, GTmetrix
+
+**Design and UI:**\
+Adobe XD, Figma, Photoshop, Sketch
+
+**Soft Skills:**\
+Agile Development, Team Leadership & Training, Client Communication, Documentation
+
+## 🎯 Featured Projects
+Coming soon..
 <!--
 **Humairah-Mujawar/Humairah-Mujawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +34,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
