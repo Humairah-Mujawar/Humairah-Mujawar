@@ -30,8 +30,7 @@ Agile Development, Team Leadership & Training, Client Communication, Documentati
 ### 📝 Project 1: Online Resume
 
 * Technologies: HTML, CSS, JavaScript, Bootstrap, jQuery
-* Features: My experience, education, skills and certifications all accessible on a one pager website.
-* Anyone who wants to have look at my resume, can do so without downloading any files.
+* Features: My experience, education, skills and certifications all accessible on a one pager website. Anyone who wants to have look at my resume, can do so without downloading any files. Also, this is better than LinkedIn, because you only see the necessary details without having to worry about distracting advertisements.
 * Live Demo: https://humairah.infinityfreeapp.com/
 
 More Coming soon..
